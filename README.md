@@ -1,6 +1,6 @@
 
 ## LISTA DE TAREFAS
-Este é um projeto, criado com javaScript, que permite criar, salvar e apagar tarefas. A finalidade deste projeto é treinar habilidades com javaScript.
+Este é um projeto, criado com javaScript, que permite criar, salvar e apagar tarefas. A finalidade deste projeto é treinar habilidades com javaScript e trabalhar com eventos do DOM (Document Object Model). 
 
 ## Tecnologias
 
