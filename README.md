@@ -35,9 +35,5 @@ Aqui estão as tecnologias utilizadas neste projeto.
   - Link para acesso: https://leticiaocr.github.io/listaDeTarefas/
   
   - Repositório: https://github.com/leticiaocr/listaDeTarefas.git
-    
-
-  ## Autores
-
-  * **Letícia Oliveira** 
+ 
 
